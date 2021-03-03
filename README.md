@@ -1,54 +1,63 @@
 # Resources
-
-
  
+**Basic and Writing Format Github**
 
-Learning for GitHub
+https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
+**Learning for GitHub**
 
 https://lab.github.com/githubtraining/github-actions:-hello-world 
  
+**Git**
 
-Kubernetes 
+https://git-scm.com/book/en/v2  
 
-https://leanpub.com/quickstartkubernetes 
- 
+*GitHub and GitHub Actions* 
 
-Git 
+https://docs.github.com/en/actions
 
-https://git-scm.com/book/en/v2 
 
- 
+*GIT CHEAT SHEET*
 
-GIT CHEAT SHEET 
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
- 
 
-Branching Strategy  
 
-Azure Focused Branching Strategy 
+**Branching Strategy**  
+
+*Azure Focused Branching Strategy*
+
 https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/?view=azure-devopshttps://blog.container-solutions.com/how-to-use-gitops-in-a-company
 
+*GIT BRANCHING*
 
-GITFLOW 
+https://writeabout.net/2018/05/04/git-branching-guidance-for-devops-teams/ 
+
+
+*Martin Fowler Branching Strategy*
+
+https://martinfowler.com/articles/branching-patterns.html
+
+
+*GITFLOW*
 
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
  
 
-GITOPS 
+*GITOPS* 
 
 https://blog.container-solutions.com/how-to-use-gitops-in-a-company
- 
-GIT BRANCHING
 
-https://writeabout.net/2018/05/04/git-branching-guidance-for-devops-teams/ 
 
- 
 
-Martin Fowler Branching Strategy 
 
-https://martinfowler.com/articles/branching-patterns.html
 
-GitHub and GitHub Actions 
+
+
+Kubernetes 
+
+https://leanpub.com/quickstartkubernetes 
+
+
 
  
 
@@ -69,9 +78,7 @@ https://learning.oreilly.com/library/view/designing-data-intensive-applications/
 
 Fundamentals of Software Architecture  
 https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ 
- 
- 
-
+  
 
 CloudEndure 
 
@@ -84,6 +91,9 @@ Cloud Endure Automation
 ## RedHat Insights
 
 https://youtu.be/eEZtS2k04f8
+
+https://youtu.be/2_mD5_lCGXk
+
 
 Creating AMIs 
 
