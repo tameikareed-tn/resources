@@ -77,6 +77,7 @@ https://learning.oreilly.com/library/view/designing-data-intensive-applications/
  
 
 Fundamentals of Software Architecture  
+                                                                                                                                                                                                                                                  
 https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ 
   
 
@@ -88,7 +89,7 @@ Cloud Endure Automation
  
 # Security
 
-## RedHat Insights
+*RedHat Insights*
 
 https://youtu.be/eEZtS2k04f8
 
@@ -99,11 +100,11 @@ Creating AMIs
 
  
 
-Leadership in the Digital Age 
+*Leadership in the Digital Age* 
 
 https://learning.oreilly.com/library/view/leadership-in-the/9781952538636/
 
-SRE with Java Microservices 
+*SRE with Java Microservices* 
 
 http://SRE%20with%20Java%20Microservices
  
