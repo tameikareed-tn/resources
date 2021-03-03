@@ -79,9 +79,9 @@ Cloud Endure Automation
 
  
  
-#Security
+# Security
 
-##RedHat Insights
+## RedHat Insights
 
 https://youtu.be/eEZtS2k04f8
 
