@@ -79,6 +79,11 @@ Cloud Endure Automation
 
  
  
+#Security
+
+##RedHat Insights
+
+https://youtu.be/eEZtS2k04f8
 
 Creating AMIs 
 
