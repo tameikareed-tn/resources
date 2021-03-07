@@ -22,21 +22,22 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 **Basic and Writing Format Github**
 
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
 **Git**
 
 https://git-scm.com/book/en/v2  
 
-*GitHub and GitHub Actions* 
+**GitHub and GitHub Actions** 
 
 https://docs.github.com/en/actions
 
 
-*GIT CHEAT SHEET*
+**GIT CHEAT SHEET**
 
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 
-**Branching Strategy**  
+###Branching Strategy### 
 
 *Azure Focused Branching Strategy*
 
