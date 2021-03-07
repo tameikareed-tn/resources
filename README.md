@@ -1,6 +1,6 @@
 # Resources
 
-**Training on Pluralsight**
+# **Training on Pluralsight**
 
 https://app.pluralsight.com/channels/details/00572a13-5f67-4769-b65c-8cefed337258?s=1
 
@@ -160,6 +160,9 @@ https://aws.amazon.com/identity/federation/
 
 Terraform 
 
+Terraform Registry
+
+
 https://learning.oreilly.com/library/view/multi-cloud-architecture-and/9781800203198/#toc
  
 
@@ -186,16 +189,10 @@ Ansible Tower and Terraform Authentication
 Avatrix  
 
  
-
-Machine Learning Ops 
-
- 
-
+Splunk
  
 
 Service Catalog for Windows 
-
- 
 
  
 
