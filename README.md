@@ -37,7 +37,7 @@ https://docs.github.com/en/actions
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 
-###Branching Strategy### 
+### Branching Strategy ### 
 
 *Azure Focused Branching Strategy*
 
