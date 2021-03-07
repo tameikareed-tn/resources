@@ -68,15 +68,12 @@ https://blog.container-solutions.com/how-to-use-gitops-in-a-company
 
 
 
-Kubernetes 
+# Kubernetes #
 
 https://leanpub.com/quickstartkubernetes 
-
-
-
  
 
-System Performance  
+# System Performance #
 
 https://twitter.com/brendangregg/status/1283592122709368832?s=21 
 
@@ -86,12 +83,12 @@ https://developers.redhat.com/books/knative-cookbook/old
 
  
 
-Designing for data intensive applications 
+# Designing for data intensive applications #
 
 https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ 
  
 
-Fundamentals of Software Architecture  
+## Fundamentals of Software Architecture  
                                                                                                                                                                                                                                                   
 https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ 
   
