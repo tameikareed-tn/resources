@@ -88,11 +88,6 @@ https://learning.oreilly.com/library/view/designing-data-intensive-applications/
 https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ 
   
 
-CloudEndure 
-
-Cloud Endure Automation 
-
- 
  
 ## Security
 
@@ -166,6 +161,9 @@ Avatrix
 
 Aws Basics and Resources 
 
+CloudEndure 
+
+Cloud Endure Automation 
 
 Landing Zones 
  
