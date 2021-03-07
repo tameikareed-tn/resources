@@ -14,16 +14,14 @@ https://app.pluralsight.com/channels/details/54f6e354-99ba-454d-a562-90e7aa37287
 **Ansible**
 
 https://app.pluralsight.com/channels/details/589c93d1-d090-4e5d-b207-3016d9b115b9?s=1
+ 
+## Learning for GitHub
 
+https://lab.github.com/githubtraining/github-actions:-hello-world 
  
 **Basic and Writing Format Github**
 
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
-
-**Learning for GitHub**
-
-https://lab.github.com/githubtraining/github-actions:-hello-world 
- 
 **Git**
 
 https://git-scm.com/book/en/v2  
