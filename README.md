@@ -1,12 +1,17 @@
 # Resources
 
-# **Training on Pluralsight**
+## Training on Pluralsight
+
+** Cloud Security **
 
 https://app.pluralsight.com/channels/details/00572a13-5f67-4769-b65c-8cefed337258?s=1
 
-https://app.pluralsight.com/channels/details/00572a13-5f67-4769-b65c-8cefed337258?s=1
+
+** Github **
 
 https://app.pluralsight.com/channels/details/54f6e354-99ba-454d-a562-90e7aa372877?s=1
+
+** Ansible **
 
 https://app.pluralsight.com/channels/details/589c93d1-d090-4e5d-b207-3016d9b115b9?s=1
 
