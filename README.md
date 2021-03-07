@@ -15,7 +15,7 @@ https://app.pluralsight.com/channels/details/54f6e354-99ba-454d-a562-90e7aa37287
 
 https://app.pluralsight.com/channels/details/589c93d1-d090-4e5d-b207-3016d9b115b9?s=1
  
-## Learning for GitHub
+## Learning for Git and  GitHub
 
 https://lab.github.com/githubtraining/github-actions:-hello-world 
  
