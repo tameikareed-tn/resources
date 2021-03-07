@@ -63,17 +63,12 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 https://blog.container-solutions.com/how-to-use-gitops-in-a-company
 
 
-
-
-
-
-
-# Kubernetes #
+## Kubernetes ##
 
 https://leanpub.com/quickstartkubernetes 
  
 
-# System Performance #
+## System Performance ##
 
 https://twitter.com/brendangregg/status/1283592122709368832?s=21 
 
@@ -83,13 +78,13 @@ https://developers.redhat.com/books/knative-cookbook/old
 
  
 
-# Designing for data intensive applications #
+## Designing for data intensive applications ##
 
 https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ 
  
 
-## Fundamentals of Software Architecture  
-                                                                                                                                                                                                                                                  
+## Fundamentals of Software Architecture  ##
+
 https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ 
   
 
@@ -99,7 +94,7 @@ Cloud Endure Automation
 
  
  
-# Security
+## Security
 
 *RedHat Insights*
 
@@ -107,23 +102,34 @@ https://youtu.be/eEZtS2k04f8
 
 https://youtu.be/2_mD5_lCGXk
 
+Splunk
+
+Compliance Scans
 
 Creating AMIs 
 
  
+## Leadership
 
 *Leadership in the Digital Age* 
 
 https://learning.oreilly.com/library/view/leadership-in-the/9781952538636/
 
+## Microservices
+
 *SRE with Java Microservices* 
 
 http://SRE%20with%20Java%20Microservices
+
  
+*MicroServices Fundamentals* 
+
+https://learning.oreilly.com/videos/software-architecture-superstream/0636920446712/0636920446712-video329787?autoplay=false
 
 Scaling Scrum Across Modern Enterprises 
 https://learning.oreilly.com/library/view/scaling-scrum-across/9781839216473/
  
+## Code Reviews
 
 Implementing Effective Code Reviews: How to Build and Maintain Clean Code 
 
@@ -137,11 +143,7 @@ https://learning.oreilly.com/library/view/untapped-agility/9781523088324/
 
 The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems 
  
-
-MicroServices Fundamentals 
-
-https://learning.oreilly.com/videos/software-architecture-superstream/0636920446712/0636920446712-video329787?autoplay=false
-
+## DevSecOps
 
 Implementing Azure DevOps Solutions 
 
@@ -153,11 +155,21 @@ DevSecOps - the What, Why & How
 
 https://youtu.be/G1l56vDDqVk
 
+
+## AWS MIGRATION
+
 AWS SSO FEDERATION
 
 https://aws.amazon.com/identity/federation/ 
 
+Avatrix  
+
+Aws Basics and Resources 
+
+
+Landing Zones 
  
+## Hashi Products and learning
 
 Terraform 
 
@@ -169,33 +181,14 @@ https://learning.oreilly.com/library/view/multi-cloud-architecture-and/978180020
 
 MultiCloud Architecture and Governance (Author Jeroen Mulder) 
 
- 
-
-Aws Basics and Resources 
-
- 
+## Automation and Configuration Mangement 
 
 Ansible Tower 
 
- 
-
- 
-
 Ansible Tower and Terraform Authentication 
-
- 
-
- 
-
-Avatrix  
-
- 
-Splunk
- 
 
 Service Catalog for Windows 
 
- 
 
 Service Now    
  
@@ -206,27 +199,3 @@ SSCM or SCM
 
 DevSecOps Best Practices 
 
- 
-
-Landing Zones 
-
- 
-
-Compliance Scans 
-
- 
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
