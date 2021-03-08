@@ -61,7 +61,7 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 https://blog.container-solutions.com/how-to-use-gitops-in-a-company
 
-##ChangeLog
+## ChangeLog
 
 This is will show how to use changelog for changes you make in GitHub
 [ChangeLog](https://github.com/github-changelog-generator/github-changelog-generator)
