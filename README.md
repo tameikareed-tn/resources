@@ -48,6 +48,18 @@ https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/?view=azure-devopshttps
 https://writeabout.net/2018/05/04/git-branching-guidance-for-devops-teams/ 
 
 
+*ChangeLog*
+
+This is will show how to use changelog for changes you make in GitHub
+[ChangeLog](https://github.com/github-changelog-generator/github-changelog-generator)
+
+
+*BLAME*
+[Blame](https://git-scm.com/docs/git-blame)
+
+Videos on how to use git blame [Git Blame](https://youtu.be/RU-_0cgyGyI)
+
+The Primeagen(https://youtu.be/PO6DxfGPQvw)
 *Martin Fowler Branching Strategy*
 
 https://martinfowler.com/articles/branching-patterns.html
