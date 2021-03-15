@@ -66,6 +66,9 @@ https://blog.container-solutions.com/how-to-use-gitops-in-a-company
 This is will show how to use changelog for changes you make in GitHub
 [ChangeLog](https://github.com/github-changelog-generator/github-changelog-generator)
 
+Macros for Confluence
+
+https://marketplace.atlassian.com/apps/1216734/github-macros-for-confluence?hosting=cloud&tab=overview
 
 ## BLAME
 
