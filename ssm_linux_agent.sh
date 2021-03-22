@@ -5,10 +5,9 @@ set -x
 DIR="/boot"
 
 echo "Creating directory called post_launch in boot"
-if [ -f  "$DIR" ]
+if [ -f  "$DIR/post_launch" ]
 then
-	#sudo mkdir /boot/post_launch
-	sudo mkdir $DIR/post_launch
+      echo "We have success the dir is there"	
 fi
 
 echo "Downloading ssm-agent rpm"
