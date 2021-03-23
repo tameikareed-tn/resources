@@ -196,6 +196,9 @@ https://learning.oreilly.com/library/view/multi-cloud-architecture-and/978180020
 
 MultiCloud Architecture and Governance (Author Jeroen Mulder) 
 
+
+
+
 ## Automation and Configuration Mangement 
 
 Ansible Tower 
@@ -210,6 +213,9 @@ Service Now
 
 SSCM or SCM 
 
+## AWS CLI FOR WINDOWS
+
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
  
 
 DevSecOps Best Practices 
