@@ -1,0 +1,5 @@
+Hi Tameika,
+
+We were all getting a 1260 error when trying to use the terminal in VS Code because the State has a group policy disallowing Powershell. Philip issued the fix below and I added these instructions to the Software Development Wiki for future onboardings. If you’re working with staff that can’t run a terminal session in VS Code, have them edit the terminal.integrated.shell.windows default to use git-cmd. See below…
+
+Sheila
