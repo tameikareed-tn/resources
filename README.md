@@ -184,6 +184,9 @@ SSM-AGENT
 
 https://reinvent2019.aws-management.tools/mgt406/en/optional/step7.html
 
+https://migrate-to-aws.workshop.aws/30_cloudendure.html
+
+
 Cloud Endure Automation 
 
 Landing Zones 
