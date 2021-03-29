@@ -189,6 +189,12 @@ https://migrate-to-aws.workshop.aws/30_cloudendure.html
 
 Cloud Endure Automation 
 
+
+Hosted Private Zones
+
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-private.html
+
+
 Landing Zones 
  
 ## Hashi Products and learning
