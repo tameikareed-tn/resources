@@ -180,6 +180,10 @@ Aws Basics and Resources
 
 CloudEndure 
 
+SSM-AGENT 
+
+https://reinvent2019.aws-management.tools/mgt406/en/optional/step7.html
+
 Cloud Endure Automation 
 
 Landing Zones 
