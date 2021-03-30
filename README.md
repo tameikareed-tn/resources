@@ -179,6 +179,9 @@ Avatrix
 Aws Basics and Resources 
 
 CloudEndure 
+![Image of VPC and Subnet](https://github.com/tameikareed-tn/resources/vpc_subnet.png)
+
+
 
 SSM-AGENT 
 
